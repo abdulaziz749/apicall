@@ -1,0 +1,11 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "dragon@mail.uz"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
